@@ -14,7 +14,8 @@
 
 <img src="(https://github-readme-stats.vercel.app/api?username=thomsalexander23&theme=radical&show_icons=true&count_private=true)">
 <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=thomsalexander23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)">
-
+p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomsalexander23&theme=onedark&show_icons=true&locale=en" alt="amandagwoods" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsalexander23&theme=onedark&show_icons=true&locale=en&layout=compact" alt="amandagwoods" /></p>
 
 
 
