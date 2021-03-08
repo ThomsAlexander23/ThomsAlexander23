@@ -10,8 +10,10 @@
   <li>Reach me at Linkedin or Instagram</li>
   <li>Fun Fact: I live in a self converted van!</li>
 </ul>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomsalexander23&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsalexander23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<img src="(https://github-readme-stats.vercel.app/api?username=thomsalexander23&theme=radical&show_icons=true&count_private=true)">
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=thomsalexander23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)">
 
 
 
