@@ -1,4 +1,6 @@
-Welcome, I'm Alex
+
+
+<h1>Welcome, I'm Alex</h1>
 
 I'm a full-stack developer in training at CodeUp, with a background in genetics
 
