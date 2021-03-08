@@ -10,7 +10,7 @@ I'm a full-stack developer in training at CodeUp, with a background in genetics
   - Fun Fact: I live in a self converted van!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomsalexander23&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsalexander23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsalexander23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
