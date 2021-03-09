@@ -1,6 +1,6 @@
+<h1 align="center">Welcome, I'm Alex</h1>
 <img src= "https://github.com/ThomsAlexander23/ThomsAlexander23/blob/main/images/gitProfile.png">
 
-<h1 align="center">Welcome, I'm Alex</h1>
 <h3>I'm a full-stack developer in training at CodeUp, with a background in genetics</h3>
 <ul>
   <li>I'm currently working on CSS implementation</li>
