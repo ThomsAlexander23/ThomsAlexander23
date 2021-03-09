@@ -7,7 +7,7 @@
   <li>I'm currently learning CSS</li>
   <li>I'm looking to collaborate on genetics or scientific software team</li>
   <li>Ask me about my recent work, job offers, and/or CodeUp experience thus far</li>
-  <li>Reach me at Linkedin or Instagram</li>
+  <li>Reach me at <a href="https://www.linkedin.com/in/alexander-thoms-81250188/">Linkedin</a> or <a href="https://www.instagram.com/aotadventures/">Instagram</a></li>
   <li>Fun Fact: I live in a self converted van!</li>
 </ul>
 <br>
