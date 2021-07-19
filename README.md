@@ -3,8 +3,7 @@
 
 <h3>I'm a full-stack developer in training at CodeUp, with a background in genetics</h3>
 <ul>
-  <li>I'm currently working on CSS implementation</li>
-  <li>I'm currently learning CSS</li>
+  <li>I'm currently finishing a full-stack spring application called WorkUp</li>
   <li>I'm looking to collaborate on science related or more specifically genetics software teams</li>
   <li>Ask me about my recent work, job offers, and/or CodeUp experience thus far</li>
   <li>Reach me at <a href="https://www.linkedin.com/in/alexander-thoms-81250188/">Linkedin</a> or <a href="https://www.instagram.com/aotadventures/">Instagram</a></li>
